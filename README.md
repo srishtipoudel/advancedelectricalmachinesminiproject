@@ -1,4 +1,4 @@
-# advancedelectricalmachinesminiproject
+# Advanced Electrical Machines Mini Project
 
 A 460-V, 25-hp. 60-Hz. four-pole. Y-connected wound-rotor induction motor has the
 following impedances in ohms per phase referred to the stator circuit:
